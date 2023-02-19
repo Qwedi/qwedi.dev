@@ -1,0 +1,27 @@
+@media screen and (max-width: 650px) {
+
+    #project {
+        visibility: hidden;
+        width: 0px;
+    }
+
+    .footer-dark {
+        margin-top: 25%;
+    }
+
+    .text-typing {
+        display: none;
+    }
+
+    .pc {
+        display: none;
+    }
+
+    .mobile {
+        visibility: visible;
+    }
+
+    #logoTT {
+        margin-left: 25%;
+    }
+ }
